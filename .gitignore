@@ -1,0 +1,5 @@
+# Rust cli tool
+./matrix/Cargo.lock
+./matrix/target/**
+# Platform IO project:
+./src/.vscode/**
